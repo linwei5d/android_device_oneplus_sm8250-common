@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-$(LOCAL_PATH)/maru_instantnoodlep.mk
+$(LOCAL_DIR)/maru_instantnoodlep.mk
 
 COMMON_LUNCH_CHOICES := \
 maru_instantnoodlep-userdebug \
